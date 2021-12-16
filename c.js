@@ -5,10 +5,7 @@ vv
 cv
 fff
 ff
-c
-xc
 
-ac
 a
 c
 x
