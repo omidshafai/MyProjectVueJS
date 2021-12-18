@@ -1,0 +1,10 @@
+# this line ignores all txt files
+*.txt
+
+i.js
+
+g.php
+
+styles/*.css
+
+!styles/c.css
